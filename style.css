@@ -1,0 +1,66 @@
+.div1{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+list-style: none;
+}
+.img{
+    display: flex;
+   
+}
+.img1{
+width: 300px;
+height: 300px;
+}
+.img2{
+
+width: 300px;
+height: 300px;
+}
+.img3{
+
+width: 300px;
+height: 300px;
+}
+
+.img4{
+    width: 300px;
+    height: 300px;
+
+}
+/* }
+.containerA{
+    display: flex;
+    float
+    
+}
+.containerB{
+    display: flex;
+    flex-direction: row;
+
+}
+button{
+    padding: 20px;
+    margin: 1%;
+    border-radius: 20px;
+    background-color: gray;
+    }
+.
+header{
+display: flex;
+flex-direction: row-reverse;
+} */
+
+/* .container3{
+    background-color: black;
+    display:flex ;
+   } 
+   container main{
+    display : flex; */
+   
+    
+
+
+
+
